@@ -25,9 +25,9 @@ okd-node2.lab.okd.local.        IN      A      192.168.200.6
 api.lab.okd.local.    IN    A    192.168.200.10
 api-int.lab.okd.local.    IN    A    192.168.200.10
 *.apps.lab.okd.local.    IN    A    192.168.200.10
-etcd-0.lab.okd.local.    IN    A     192.168.200.1
-etcd-1.lab.okd.local.    IN    A     192.168.200.2
-etcd-2.lab.okd.local.    IN    A     192.168.200.3
+etcd-0.lab.okd.local.    IN    A     192.168.200.2
+etcd-1.lab.okd.local.    IN    A     192.168.200.3
+etcd-2.lab.okd.local.    IN    A     192.168.200.4
 console-openshift-console.apps.lab.okd.local.     IN     A     192.168.200.10
 oauth-openshift.apps.lab.okd.local.     IN     A     192.168.200.10
 
